@@ -1,4 +1,4 @@
-cask 'homebrew' do
+cask 'mutedeck' do
   arch arm: 'aarch64', intel: 'x86-64'
 
   desc 'MuteDeck'
